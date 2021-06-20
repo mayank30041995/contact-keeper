@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mayank:mayank@cluster0.hoqgh.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+  "jwtSecret": "JHDFKHFJKDHFJKDHKJF"
+}
